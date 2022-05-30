@@ -1,4 +1,6 @@
-### Hi there 👋
+### Contact information
+* Telegram: [Vlad Kapitan](https://t.me/qrvck)
+* Diskord: qrvck#4320
 
 <!--
 **qrvck/qrvck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
