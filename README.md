@@ -2,6 +2,18 @@
 * Telegram: [Vlad Kapitan](https://t.me/qrvck)
 * Diskord: qrvck#4320
 
+### Languages and tools
+
+![Flutter](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
+![Flutter](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=Sass&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=white)
+![Flutter](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
+
 ### My projects
 * **Project Management** - Kanban-доска  
 [repository](https://github.com/qrvck/project-management-app) / [deploy](https://rss-project-management.netlify.app)  
