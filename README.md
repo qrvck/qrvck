@@ -15,7 +15,7 @@
 ![Flutter](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
 
 ### Courses
-* The Rolling Scopes School** - **"React 2022 Q3"** [certificate](https://app.rs.school/certificate/miq0x63d)
+* The Rolling Scopes School - **"React 2022 Q3"** [certificate](https://app.rs.school/certificate/miq0x63d)
 * The Rolling Scopes School - **"JavaScript/Front-end 2022Q1"** [certificate](https://app.rs.school/certificate/qrj4zld3)
 * HTML Academy - **"Профессиональна верстка сайтов"** [certificate](https://assets.htmlacademy.ru/certificates/intensive/193/1484649.pdf?1615798678)
 * HTML Academy - **"Адаптивная верстка и автоматизация"** [certificate](https://assets.htmlacademy.ru/certificates/intensive/193/1484649.pdf?1615798678)
