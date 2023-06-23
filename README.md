@@ -4,15 +4,17 @@
 
 ### Languages and tools
 
-![Flutter](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
-![Flutter](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=Sass&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=white)
-![Flutter](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
+![javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&&logoColor=0000000)
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&&logoColor=0000000)
+![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react&&logoColor=0000000)
+![redux](https://img.shields.io/badge/Redux-black?logo=redux&logoColor=764abc&style=for-the-badge)
+![html](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
+![css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&&logoColor=0000000)
+![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=Sass&&logoColor=0000000)
+![git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=white)
+![figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&&logoColor=0000000)
+![webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
+![npm](https://img.shields.io/badge/NPM-black?logo=npm&logoColor=red&style=for-the-badge)
 
 ### Courses
 * The Rolling Scopes School - **"React 2022 Q3"** [certificate](https://app.rs.school/certificate/miq0x63d)
