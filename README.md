@@ -2,6 +2,9 @@
 * Telegram: [Vlad Kapitan](https://t.me/qrvck)
 * Diskord: qrvck#4320
 
+### CV
+[Link to CV](https://qrvck.github.io/qrvck/Vlad_Kapitan_cv.pdf)
+
 ### Languages and tools
 
 ![javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&&logoColor=0000000)
