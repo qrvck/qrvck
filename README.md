@@ -3,7 +3,7 @@
 * Diskord: qrvck#4320
 
 ### CV
-[Link to CV](https://qrvck.github.io/qrvck/Vlad_Kapitan_cv.pdf)
+* [Link to CV (pdf)](https://qrvck.github.io/qrvck/Vlad_Kapitan_cv.pdf)
 
 ### Languages and tools
 
